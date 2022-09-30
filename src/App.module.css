@@ -153,4 +153,7 @@ body {
     .container .rightSide .grid {
         grid-template-columns: 1fr;
     }
+    .container .rightSide .rightArrow:hover {
+    transform: scale();
+}
 }
