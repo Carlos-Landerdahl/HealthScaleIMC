@@ -10,13 +10,9 @@ Projeto desenvolvido durante o curso <b>B7web</b>.
 <b>Para iniciar:</b> 
 - `npm start`
 
-## Link úteis: 
-<ul>
-    <li>
-        <p><a src="https://github.com/css-modules/css-modules">Modules.css</a></p>
-    </li>
-    <li>
-        <p><a src="https://www.markdownguide.org/basic-syntax">Basic Syntax</a></p>
-    </li>
-</ul>
+## Links úteis:
+
+- [Modules.css](https://github.com/css-modules/css-modules)
+- [Basic Syntax](https://www.markdownguide.org/basic-syntax)
+
 
